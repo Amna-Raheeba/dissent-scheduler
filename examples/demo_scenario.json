@@ -1,0 +1,37 @@
+{
+  "name": "medium-5",
+  "agents": [
+    {
+      "skill": 0.5807887765879367,
+      "conformity": 0.27446506520552627,
+      "fragility": 0.3879084950477807,
+      "estimated_skill": null
+    },
+    {
+      "skill": 0.6313020968726721,
+      "conformity": 0.5950782984983094,
+      "fragility": 0.49669315506697875,
+      "estimated_skill": null
+    },
+    {
+      "skill": 0.47838233813748315,
+      "conformity": 0.5384374038893257,
+      "fragility": 0.4125815505225052,
+      "estimated_skill": null
+    },
+    {
+      "skill": 0.5185621785178963,
+      "conformity": 0.30314939854829437,
+      "fragility": 0.16730601200710007,
+      "estimated_skill": null
+    },
+    {
+      "skill": 0.5016316290331663,
+      "conformity": 0.5852230953298763,
+      "fragility": 0.27043376710380446,
+      "estimated_skill": null
+    }
+  ],
+  "distractor_pull": 0.4,
+  "seed": 7
+}
