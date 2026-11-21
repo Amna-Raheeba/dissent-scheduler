@@ -1,0 +1,19 @@
+[build-system]
+requires = ["setuptools>=61"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "dissent-scheduler"
+version = "0.1.0"
+description = "Dissent on a schedule: a prescriptive scheduler for multi-agent debates that diagnoses which failure pathway (sycophantic conformity, fragility, consensus collapse) is losing correct answers, and searches dissent schedules priced in tokens as oracle-gap closure per 1k tokens."
+readme = "README.md"
+requires-python = ">=3.10"
+license = { text = "MIT" }
+authors = [{ name = "Amna Raheeba" }]
+
+[tool.setuptools]
+packages = ["dissent_sched"]
+
+[tool.pytest.ini_options]
+pythonpath = ["."]
+testpaths = ["tests"]
