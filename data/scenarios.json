@@ -1,0 +1,538 @@
+{
+  "scenarios": [
+    {
+      "name": "low-3",
+      "agents": [
+        {
+          "skill": 0.5320366067664541,
+          "conformity": 0.35769104435927473,
+          "fragility": 0.2560962276474892,
+          "estimated_skill": null
+        },
+        {
+          "skill": 0.5024075363896493,
+          "conformity": 0.2543175379387512,
+          "fragility": 0.18662613137046313,
+          "estimated_skill": null
+        },
+        {
+          "skill": 0.5820821443265274,
+          "conformity": 0.2704924182767164,
+          "fragility": 0.41283726053462544,
+          "estimated_skill": null
+        }
+      ],
+      "distractor_pull": 0.65,
+      "seed": 20261121
+    },
+    {
+      "name": "medium-3",
+      "agents": [
+        {
+          "skill": 0.5170133620181327,
+          "conformity": 0.5677175460236557,
+          "fragility": 0.1555822873324361,
+          "estimated_skill": null
+        },
+        {
+          "skill": 0.5740962909957974,
+          "conformity": 0.5671632544586834,
+          "fragility": 0.3651258914679175,
+          "estimated_skill": null
+        },
+        {
+          "skill": 0.7471381638185695,
+          "conformity": 0.27653519989238257,
+          "fragility": 0.36783072184560717,
+          "estimated_skill": null
+        }
+      ],
+      "distractor_pull": 0.4,
+      "seed": 20262121
+    },
+    {
+      "name": "high-3",
+      "agents": [
+        {
+          "skill": 0.6866465141716638,
+          "conformity": 0.5569109649934528,
+          "fragility": 0.17628592659470776,
+          "estimated_skill": null
+        },
+        {
+          "skill": 0.45969468217368925,
+          "conformity": 0.5758723278569273,
+          "fragility": 0.4830584148979705,
+          "estimated_skill": null
+        },
+        {
+          "skill": 0.7557669478826601,
+          "conformity": 0.3472317690842942,
+          "fragility": 0.13356430955972978,
+          "estimated_skill": null
+        }
+      ],
+      "distractor_pull": 0.15,
+      "seed": 20263121
+    },
+    {
+      "name": "low-5",
+      "agents": [
+        {
+          "skill": 0.5745404173039197,
+          "conformity": 0.39428788143955296,
+          "fragility": 0.1042605427255642,
+          "estimated_skill": null
+        },
+        {
+          "skill": 0.5810809292618228,
+          "conformity": 0.438449507253568,
+          "fragility": 0.43586823958297927,
+          "estimated_skill": null
+        },
+        {
+          "skill": 0.5026137001938964,
+          "conformity": 0.5501596947579634,
+          "fragility": 0.2301241360503583,
+          "estimated_skill": null
+        },
+        {
+          "skill": 0.5899508654309393,
+          "conformity": 0.5718607336465582,
+          "fragility": 0.3355774506456731,
+          "estimated_skill": null
+        },
+        {
+          "skill": 0.5711622064998884,
+          "conformity": 0.45687226753358556,
+          "fragility": 0.34062564700134157,
+          "estimated_skill": null
+        }
+      ],
+      "distractor_pull": 0.65,
+      "seed": 20264121
+    },
+    {
+      "name": "medium-5",
+      "agents": [
+        {
+          "skill": 0.613345086194892,
+          "conformity": 0.42183598173274295,
+          "fragility": 0.20418070971779484,
+          "estimated_skill": null
+        },
+        {
+          "skill": 0.6872390787112669,
+          "conformity": 0.4539078881082943,
+          "fragility": 0.15522715343523738,
+          "estimated_skill": null
+        },
+        {
+          "skill": 0.48693040576263946,
+          "conformity": 0.4438706922623701,
+          "fragility": 0.10015396139259446,
+          "estimated_skill": null
+        },
+        {
+          "skill": 0.6777045163587223,
+          "conformity": 0.342587697083212,
+          "fragility": 0.27591415672101416,
+          "estimated_skill": null
+        },
+        {
+          "skill": 0.6981773521946766,
+          "conformity": 0.32233082818227454,
+          "fragility": 0.272635495855846,
+          "estimated_skill": null
+        }
+      ],
+      "distractor_pull": 0.4,
+      "seed": 20265121
+    },
+    {
+      "name": "high-5",
+      "agents": [
+        {
+          "skill": 0.5598040722470059,
+          "conformity": 0.33008773106071604,
+          "fragility": 0.338399370455131,
+          "estimated_skill": null
+        },
+        {
+          "skill": 0.6721705326522999,
+          "conformity": 0.5881976611954806,
+          "fragility": 0.1308339387161658,
+          "estimated_skill": null
+        },
+        {
+          "skill": 0.48534231941605926,
+          "conformity": 0.3962158959753824,
+          "fragility": 0.3899459361374483,
+          "estimated_skill": null
+        },
+        {
+          "skill": 0.5815697056992004,
+          "conformity": 0.26045668657936855,
+          "fragility": 0.2547667161202435,
+          "estimated_skill": null
+        },
+        {
+          "skill": 0.8128258586985369,
+          "conformity": 0.35376055345780055,
+          "fragility": 0.25162591527763356,
+          "estimated_skill": null
+        }
+      ],
+      "distractor_pull": 0.15,
+      "seed": 20266121
+    },
+    {
+      "name": "low-7",
+      "agents": [
+        {
+          "skill": 0.5661656112770176,
+          "conformity": 0.26326456261450254,
+          "fragility": 0.45031879669928476,
+          "estimated_skill": null
+        },
+        {
+          "skill": 0.5103230946222829,
+          "conformity": 0.5507654637133181,
+          "fragility": 0.3984004309110293,
+          "estimated_skill": null
+        },
+        {
+          "skill": 0.5998905986460146,
+          "conformity": 0.25352402252034506,
+          "fragility": 0.21817494624998202,
+          "estimated_skill": null
+        },
+        {
+          "skill": 0.5368152437014448,
+          "conformity": 0.3824690824503154,
+          "fragility": 0.362478831197547,
+          "estimated_skill": null
+        },
+        {
+          "skill": 0.5314342884057623,
+          "conformity": 0.4045435534758078,
+          "fragility": 0.2458226417322932,
+          "estimated_skill": null
+        },
+        {
+          "skill": 0.5531603691875382,
+          "conformity": 0.40579717896493606,
+          "fragility": 0.12192481586926945,
+          "estimated_skill": null
+        },
+        {
+          "skill": 0.5286917336916057,
+          "conformity": 0.30146776194827773,
+          "fragility": 0.36070993011637487,
+          "estimated_skill": null
+        }
+      ],
+      "distractor_pull": 0.65,
+      "seed": 20267121
+    },
+    {
+      "name": "medium-7",
+      "agents": [
+        {
+          "skill": 0.6387312837216392,
+          "conformity": 0.3079320005755452,
+          "fragility": 0.1840392631620052,
+          "estimated_skill": null
+        },
+        {
+          "skill": 0.7331051378593629,
+          "conformity": 0.5197929072205683,
+          "fragility": 0.46460385235209056,
+          "estimated_skill": null
+        },
+        {
+          "skill": 0.5907911386237867,
+          "conformity": 0.36694775236159266,
+          "fragility": 0.41556185848580096,
+          "estimated_skill": null
+        },
+        {
+          "skill": 0.7173213975519036,
+          "conformity": 0.39332631331630336,
+          "fragility": 0.15671115262325835,
+          "estimated_skill": null
+        },
+        {
+          "skill": 0.465890913306963,
+          "conformity": 0.526857723673724,
+          "fragility": 0.15712774838939808,
+          "estimated_skill": null
+        },
+        {
+          "skill": 0.6330987309304705,
+          "conformity": 0.3712855385136735,
+          "fragility": 0.12524608982736485,
+          "estimated_skill": null
+        },
+        {
+          "skill": 0.5472285511417067,
+          "conformity": 0.2981310877395134,
+          "fragility": 0.4462933892226567,
+          "estimated_skill": null
+        }
+      ],
+      "distractor_pull": 0.4,
+      "seed": 20268121
+    },
+    {
+      "name": "high-7",
+      "agents": [
+        {
+          "skill": 0.5436845770546349,
+          "conformity": 0.2885396360747245,
+          "fragility": 0.3312658063583528,
+          "estimated_skill": null
+        },
+        {
+          "skill": 0.7649193630235085,
+          "conformity": 0.5719198635593563,
+          "fragility": 0.12341665108638021,
+          "estimated_skill": null
+        },
+        {
+          "skill": 0.582840181145934,
+          "conformity": 0.4926092027598593,
+          "fragility": 0.14667926213622684,
+          "estimated_skill": null
+        },
+        {
+          "skill": 0.7122012157905424,
+          "conformity": 0.4403228180020704,
+          "fragility": 0.20877317643108737,
+          "estimated_skill": null
+        },
+        {
+          "skill": 0.7915201554207274,
+          "conformity": 0.4967589441534661,
+          "fragility": 0.3139486197741761,
+          "estimated_skill": null
+        },
+        {
+          "skill": 0.8278027457829957,
+          "conformity": 0.32820555331917073,
+          "fragility": 0.4034892743004258,
+          "estimated_skill": null
+        },
+        {
+          "skill": 0.5946716839951187,
+          "conformity": 0.30195233235509755,
+          "fragility": 0.14940794880570493,
+          "estimated_skill": null
+        }
+      ],
+      "distractor_pull": 0.15,
+      "seed": 20269121
+    },
+    {
+      "name": "low-10",
+      "agents": [
+        {
+          "skill": 0.5526386343002357,
+          "conformity": 0.5962362386276177,
+          "fragility": 0.2977999201774709,
+          "estimated_skill": null
+        },
+        {
+          "skill": 0.5722722150282508,
+          "conformity": 0.4448575406100055,
+          "fragility": 0.19563906231941997,
+          "estimated_skill": null
+        },
+        {
+          "skill": 0.5958708870725712,
+          "conformity": 0.5275126977218,
+          "fragility": 0.27736427292592214,
+          "estimated_skill": null
+        },
+        {
+          "skill": 0.5211110973487438,
+          "conformity": 0.39310239414287956,
+          "fragility": 0.13727837963880163,
+          "estimated_skill": null
+        },
+        {
+          "skill": 0.5710304362735961,
+          "conformity": 0.3478669349020941,
+          "fragility": 0.4503381254522836,
+          "estimated_skill": null
+        },
+        {
+          "skill": 0.5669304032892586,
+          "conformity": 0.3352274652010624,
+          "fragility": 0.34154218128752367,
+          "estimated_skill": null
+        },
+        {
+          "skill": 0.5255500638465791,
+          "conformity": 0.511639339341675,
+          "fragility": 0.38376301043134853,
+          "estimated_skill": null
+        },
+        {
+          "skill": 0.5873023949627922,
+          "conformity": 0.3047084075531697,
+          "fragility": 0.4785188378397556,
+          "estimated_skill": null
+        },
+        {
+          "skill": 0.5293193296884825,
+          "conformity": 0.5510818541125999,
+          "fragility": 0.3228935695298172,
+          "estimated_skill": null
+        },
+        {
+          "skill": 0.5261520610799438,
+          "conformity": 0.2870523807522959,
+          "fragility": 0.13518080995512857,
+          "estimated_skill": null
+        }
+      ],
+      "distractor_pull": 0.65,
+      "seed": 20270121
+    },
+    {
+      "name": "medium-10",
+      "agents": [
+        {
+          "skill": 0.746830312285935,
+          "conformity": 0.32327768583401184,
+          "fragility": 0.30994373476796344,
+          "estimated_skill": null
+        },
+        {
+          "skill": 0.5049008240979171,
+          "conformity": 0.2525300139737911,
+          "fragility": 0.38871610758210795,
+          "estimated_skill": null
+        },
+        {
+          "skill": 0.5852841420202857,
+          "conformity": 0.25252174357914403,
+          "fragility": 0.408190725832961,
+          "estimated_skill": null
+        },
+        {
+          "skill": 0.5506558446550055,
+          "conformity": 0.4463669706841723,
+          "fragility": 0.4086182722204258,
+          "estimated_skill": null
+        },
+        {
+          "skill": 0.5592373581242447,
+          "conformity": 0.3590927971033888,
+          "fragility": 0.2108084144580077,
+          "estimated_skill": null
+        },
+        {
+          "skill": 0.45154487671907284,
+          "conformity": 0.49499714624218305,
+          "fragility": 0.3014670029320796,
+          "estimated_skill": null
+        },
+        {
+          "skill": 0.7463558811243739,
+          "conformity": 0.5878832917360468,
+          "fragility": 0.3602404891381368,
+          "estimated_skill": null
+        },
+        {
+          "skill": 0.4934213151370132,
+          "conformity": 0.30543689001561425,
+          "fragility": 0.3730947875042302,
+          "estimated_skill": null
+        },
+        {
+          "skill": 0.6462145488962346,
+          "conformity": 0.538345851887658,
+          "fragility": 0.11683643158793422,
+          "estimated_skill": null
+        },
+        {
+          "skill": 0.6463603946557274,
+          "conformity": 0.5109023147185241,
+          "fragility": 0.10319406060321201,
+          "estimated_skill": null
+        }
+      ],
+      "distractor_pull": 0.4,
+      "seed": 20271121
+    },
+    {
+      "name": "high-10",
+      "agents": [
+        {
+          "skill": 0.719255497368147,
+          "conformity": 0.5771709279229515,
+          "fragility": 0.23269710848761005,
+          "estimated_skill": null
+        },
+        {
+          "skill": 0.47853043225162195,
+          "conformity": 0.4266851877680121,
+          "fragility": 0.49260705570438856,
+          "estimated_skill": null
+        },
+        {
+          "skill": 0.40554264610053925,
+          "conformity": 0.5960362856697499,
+          "fragility": 0.16120074881361046,
+          "estimated_skill": null
+        },
+        {
+          "skill": 0.4780141827139567,
+          "conformity": 0.3212907846058621,
+          "fragility": 0.3446150051644146,
+          "estimated_skill": null
+        },
+        {
+          "skill": 0.7661147085457376,
+          "conformity": 0.3905144865719934,
+          "fragility": 0.21698081580662146,
+          "estimated_skill": null
+        },
+        {
+          "skill": 0.4761811575564403,
+          "conformity": 0.41333408051891257,
+          "fragility": 0.43703349967882854,
+          "estimated_skill": null
+        },
+        {
+          "skill": 0.5696137100582228,
+          "conformity": 0.31082611384004794,
+          "fragility": 0.2287243499653212,
+          "estimated_skill": null
+        },
+        {
+          "skill": 0.6151376882382674,
+          "conformity": 0.5095869054747528,
+          "fragility": 0.2511521005132363,
+          "estimated_skill": null
+        },
+        {
+          "skill": 0.4196002990550065,
+          "conformity": 0.4014494258361214,
+          "fragility": 0.45902188054042425,
+          "estimated_skill": null
+        },
+        {
+          "skill": 0.67939909862229,
+          "conformity": 0.44946248989691473,
+          "fragility": 0.29284549749439825,
+          "estimated_skill": null
+        }
+      ],
+      "distractor_pull": 0.15,
+      "seed": 20272121
+    }
+  ]
+}
